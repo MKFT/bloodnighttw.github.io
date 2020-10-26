@@ -8,7 +8,7 @@
 
 
 <center><h1>懶人包 請看巴哈連結 </h1></center>
-<center><a herf="https://forum.gamer.com.tw/C.php?bsn=60076&snA=5905641">「連結在這」</a></center>
+<center><a href="https://forum.gamer.com.tw/C.php?bsn=60076&snA=5905641">「連結在這」</a></center>
 <center> <p> 因為兒少法 我們不能公佈 未成年加害者資訊 TSJ就快成年了 所以我就花了點時間為這垃圾做了這鬼東西<p> 
   
 
